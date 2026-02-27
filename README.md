@@ -1,6 +1,6 @@
 
 
-# Eukaryotic_horizontal_gene_transfer_dataset_a_compendium
+# A_compendium_of_the_metazoan_horizontal_gene_transfer_dataset
 ***All the code used to create the dataset for this project***
 
 ### First create a python virtual environment (The python version should be 3.12.9)
